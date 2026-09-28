@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI – AI-Powered Interview Coach",
+  "description": "Interactive AI-powered interview practice platform for students and job seekers simulating technical and HR interviews with dynamic questions, instant scoring, feedback, and performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
